@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+data/
+assets/
+*.db
+*.db-wal
+*.db-shm
+.pytest_cache/
+build/
+dist/
+*.spec
+.idea/
+.vscode/
